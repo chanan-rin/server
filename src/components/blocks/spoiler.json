@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_spoiler_s",
+  "info": {
+    "displayName": "spoiler."
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}
